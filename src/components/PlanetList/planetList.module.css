@@ -1,7 +1,12 @@
 .list {
-  list-style: none;
   display: flex;
-  flex-direction: column;
-  margin: 0 auto;
-  width: 100%;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  list-style: none;
+}
+
+.list li {
+  margin: 10px;
 }

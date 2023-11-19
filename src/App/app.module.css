@@ -1,13 +1,14 @@
-.appContainer {
+/* .appContainer {
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 20px;
-}
+  margin: 0 auto;
+  max-width: 1200px;
+  width: 100%;
 
-@media screen and (min-width: 768px) {
-  .appContainer {
+  @media screen and (min-width: 768px) {
     flex-direction: row;
     justify-content: space-around;
   }
-}
+} */
