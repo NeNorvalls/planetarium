@@ -1,6 +1,6 @@
 # React Planets App
 
-![React Planets App](path/to/your/screenshot.png)
+![React Planets App](https://i.ibb.co/CbXLjMQ/planetarium.png)
 
 This is a simple React application that displays information about different planets in our solar system.
 
